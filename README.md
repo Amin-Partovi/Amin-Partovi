@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 As a front-end developer, I thrive on keeping up with the latest technologies and best practices to create engaging user experiences. My passion for problem-solving has allowed me to tackle complex challenges and come up with innovative solutions. With a focus on application development, I have extensive experience working with JavaScript and React. I am committed to working collaboratively with agile teams and have a proven track record of delivering high-quality results in a fast-paced environment.<br><br>👯 In addition to my work, I enjoy sharing my knowledge and insights with others in the tech community. You can check out my Medium profile (https://medium.com/@amin.frontend) for articles on the latest trends and techniques in front-end development.<br><br>🤝 I am excited to explore new opportunities where I can apply my skills and passion for front-end development to help create exceptional user experiences. Let's connect and explore how we can work together!<br>
+🔭 As a front-end developer, I thrive on keeping up with the latest technologies and best practices to create engaging user experiences. My passion for problem-solving has allowed me to tackle complex challenges and come up with innovative solutions. With a focus on application development, I have extensive experience working with JavaScript and React. I am committed to working collaboratively with agile teams.<br><br>👯 In addition to my work, I enjoy sharing my knowledge and insights with others in the tech community. You can check out my Medium profile (https://medium.com/@amin.frontend) for articles on the latest trends and techniques in front-end development.<br><br>🤝 I am excited to explore new opportunities where I can apply my skills and passion for front-end development to help create exceptional user experiences. Let's connect and explore how we can work together!<br>
 
 
 # 💻 Tech Stack:
@@ -7,6 +7,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amin-Partovi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amin-Partovi&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Partovi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 
